@@ -24,3 +24,5 @@ php artisan make:livewire Admin/AdminDashboardComponent
 php artisan make:livewire Sprovider/SproviderDashboardComponent
 php artisan make:livewire Customer/CustomerDashboardComponent
 
+
+https://www.youtube.com/watch?v=BnE0m8JKjOc&list=PLz_YkiqIHesuxBsGgvWy9YEa2qOBUW07R&index=1
